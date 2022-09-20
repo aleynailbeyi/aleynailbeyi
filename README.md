@@ -2,9 +2,9 @@
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
-I’m a final year Software Engineering undergraduate in Karadeniz Technical University 📚. I am completely passionate about frontend development. I love listening to music 💓 🎶, watching movies, series and sharing it with my friends.
+I graduated Software Engineering in Karadeniz Technical University. I am completely passionate about frontend and backend technologies. I love listening to music, watching movies, series and sharing it with my friends.
 
-- 🌱 I’m currently learning **React.js, .NET Core, Javascript**
+- I’m currently learning **React.js, .NET Core, Node.js**
 
 <hr>
 📐Languages and Tools
